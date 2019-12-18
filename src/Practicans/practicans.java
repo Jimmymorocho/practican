@@ -66,6 +66,7 @@ public class practicans extends javax.swing.JFrame {
         // TODO add your handling code here:
         
         lblmensaje1.setText("hola......");
+        lblmensaje3.setText("estoy bien......");
         
     }//GEN-LAST:event_btnactivarActionPerformed
 
